@@ -75,7 +75,9 @@ src/
 
 ## Deployment
 
-This app can be deployed directly on Vercel, Netlify, or Cloudflare Pages as a static Vite app.
+This app has been deployed directly on Netlify as a static Vite app.
+
+- Live URL: https://fascinating-semifreddo-3bbeed.netlify.app/
 
 - Build command: `npm run build`
 - Output directory: `dist`
